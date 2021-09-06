@@ -69,9 +69,9 @@ This is a great collection of just really, really good movies. After scrolling t
 
 For example, some good movies that I have watched that really effected me include:
 - [Wanda (1970)](https://en.wikipedia.org/wiki/Wanda_(film))
-![Wanda poster](https://en.wikipedia.org/wiki/Wanda_(film)#/media/File:Barbara_Loden's_Wanda_(1970_US_poster).jpeg)
+![Wanda poster](img/wanda.jpeg)
 - [Salesman (1969)](https://en.wikipedia.org/wiki/Salesman_(1969_film))
-![Salesman poster](https://en.wikipedia.org/wiki/Salesman_(1969_film)#/media/File:Salesman_(1969_poster).jpg)
+![Salesman poster](img/salesman.jpg)
 - [8 hours don't make a day (1972-1973)](https://en.wikipedia.org/wiki/Eight_Hours_Don%27t_Make_a_Day)
 ![8 hours don't make a day poster](https://s3.amazonaws.com/criterion-production/films/ed394478f60a211193ba1dab88125197/w3TkERkEMljsbq7hxffsVze3JCQZ8K_large.jpg)
 
