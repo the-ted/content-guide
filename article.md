@@ -1,5 +1,4 @@
 # Introduction
-
 ### This article has two things:
 
 1. A focused list of "premium culture" sources that I believe are high-quality and worth your time
@@ -45,17 +44,13 @@ These are periodic sourced of articles. For written journals, you want
 #### [New York Review of Books](https://www.nybooks.com/)
 This was the journal I started with. My grandfather was an ardent NYRB fan and I picked this source up from him. Some of these articles will show up in reputable online blogs (e.g. yCombinator, metafilter) every now and then.
 
-The journal has a liberal
-
 For me, really good content I've found here is the work by [Rachel Cusk](https://en.wikipedia.org/wiki/Rachel_Cusk), among others.
 
 #### [London Review of Books](https://www.lrb.co.uk/)
 This is another journal that is (obviously) focused more on the London / UK side of things. I've been reading the LRB for about ~6 months at this point and I find that they have really good narrative perspectives and reviews.
 
-
 #### [New Criterion](https://newcriterion.com/)
 This is a thoughtful conservative journal that is helpful to balance out point-of-views. The NYRB and the LRB are both left-of-center (although not extremely progressive). The New Criterion is helpful as a counterbalance (although you may need to be willing to deal with some out-there perspectives in the age of Trump).
-
 
 #### A current events newspaper
 As the above journals are only published every month, you need a source for current events that is published more regularly. Without this source, you'll feel out-of-date and go back to checking your standard set of blogs every 30 minutes.
@@ -69,11 +64,8 @@ This is a great collection of just really, really good movies. After scrolling t
 
 For example, some good movies that I have watched that really effected me include:
 - [Wanda (1970)](https://en.wikipedia.org/wiki/Wanda_(film))
-![Wanda poster](img/wanda.jpeg)
 - [Salesman (1969)](https://en.wikipedia.org/wiki/Salesman_(1969_film))
-![Salesman poster](img/salesman.jpg)
 - [8 hours don't make a day (1972-1973)](https://en.wikipedia.org/wiki/Eight_Hours_Don%27t_Make_a_Day)
-![8 hours don't make a day poster](https://s3.amazonaws.com/criterion-production/films/ed394478f60a211193ba1dab88125197/w3TkERkEMljsbq7hxffsVze3JCQZ8K_large.jpg)
 
 ### Streaming music
 
