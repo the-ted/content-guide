@@ -16,14 +16,32 @@
 
 I'll be updating this guide every 6 months or so; if you'd like to be updated when this guide changes, please leave your email address here:
 
-	<TODO Insert email signup form here>
+<br>
+
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mbjlopov" method="post">
+
+<fieldset id="fs-frm-inputs">
+
+<label for="email-address">Email Address</label>
+
+<input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required="">
+
+<input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+
+</fieldset>
+
+<input type="submit" value="Submit">
+
+</form>
+
+<br>
 
 ## Tools and setup
 ### Redirecting your attention FROM the internet TO something worth your time.
 
 To start with, you need to break the habit of scrolling through your internet sources.
 
-In order to do that, I wrote an Apple shortcut that automatically redirects me to my kindle app and locks me into guided access mode every time I open Safari.
+In order to do that, I wrote an Apple shortcut that automatically redirects me to my Kindle app and locks me into guided access mode every time I open Safari.
 
 This is a great pattern because it provides enough friction to prevent you from mindlessly opening apps. But, if you really do need to use an app (e.g. for work) then you can take the time to unlock it.
 
@@ -41,7 +59,7 @@ Prerequisites:
 
 ![Guided access settings](img/auto-2.png)
 
-4. When this automation is enabled, every time you open up Safari, your iPhone will open up your kindle app instead and lock you into guided access mode.
+4. When this automation is enabled, every time you open up Safari, your iPhone will open up your Kindle app instead and lock you into guided access mode.
 
 ### Getting articles in easily digestible format with Calibre
 
@@ -49,7 +67,9 @@ I'll be updating this guide with a recommended format for reading journals in ar
 	
 If you'd like to be updated when I write this down, please leave your email address here:
 
-<br><form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mbjlopov" method="post">
+<br>
+
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mbjlopov" method="post">
 
 <fieldset id="fs-frm-inputs">
 
@@ -63,17 +83,21 @@ If you'd like to be updated when I write this down, please leave your email addr
 
 <input type="submit" value="Submit">
 
-</form><br>
+</form>
+
+<br>
 
 ## The sources
 
 ### Written journals
 
-These are periodic sourced of articles. For written journals, you want
+These are basically high-quality magazines. For these, you want
 
 1. Hiqhest quality content possible
 2. A balance of views from the left and right
 3. Content in a wide range of interesting subject areas and topics
+
+I find the truly best thinking is right in the boundary between academia and the public. Someplace like the New Yorker tends to dumb down their nonfiction (and frequently gets it wrong). But I'm not going to be reading the Journal of American History anytime soon!
 
 #### [New York Review of Books](https://www.nybooks.com/)
 
@@ -83,7 +107,7 @@ These are periodic sourced of articles. For written journals, you want
 
 **Good for**: Art, fiction books, history, subjects you didn't know you were interested in
 
-This was the journal I started with. My grandfather was an ardent NYRB fan and I picked this source up from him. Some of these articles will show up in reputable online blogs (e.g. yCombinator, metafilter) every now and then.
+This was the journal I started with. My grandfather was an ardent NYRB fan and I picked this source up from him. Some of these articles will show up in reputable online blogs (e.g. yCombinator, Metafilter) every now and then.
 
 For me, really good content I've found here is the work by [Rachel Cusk](https://en.wikipedia.org/wiki/Rachel_Cusk), among others.
 
@@ -95,8 +119,7 @@ For me, really good content I've found here is the work by [Rachel Cusk](https:/
 
 **Good for**: Nonfiction, History, Europe
 
-
-This is another journal that is (obviously) focused more on the London / UK side of things. I've been reading the LRB for about ~6 months at this point and I find that they have really good narrative perspectives and reviews.
+This is another journal that is (obviously) focused more on the London / UK side of things. I've been reading the LRB for about ~6 months at this point and I find that they have really good narrative perspectives and reviews. [Here](https://www.lrb.co.uk/the-paper/v43/n14/james-meek/who-holds-the-welding-rod) is an example of an article that was pretty interesting to me.
 
 #### [New Criterion](https://newcriterion.com/)
 
@@ -106,7 +129,7 @@ This is another journal that is (obviously) focused more on the London / UK side
 
 **Good for**: Opposing viewpoints, music and art
 
-This is a thoughtful conservative journal that is helpful to balance out point-of-views. The NYRB and the LRB are both left-of-center (although not extremely progressive). The New Criterion is helpful as a counterbalance (although you may need to be willing to deal with some out-there perspectives in the age of Trump).
+This is a thoughtful conservative journal that is helpful to balance out point-of-views. The NYRB and the LRB are both left-of-center (although not extremely progressive). The New Criterion is helpful as a counterbalance (although you may need to be willing to deal with some out-there perspectives in the age of Trump). [Here](https://newcriterion.com/issues/2021/9/classical-patricide) is an example of some recent perspectives (very anti-woke).
 
 #### [Wall Street Journal](https://www.wsj.com/)
 
@@ -122,7 +145,7 @@ I have found that The Wall Street Journal is my preferred source for current eve
 
 ### Streaming video
 
-#### The Criterion Collection
+#### [The Criterion Collection](https://www.criterionchannel.com/)
 
 **Cost**: $100 / year
 
@@ -132,7 +155,7 @@ I have found that The Wall Street Journal is my preferred source for current eve
 
 This is a great collection of just really, really good movies. After scrolling through these films it takes me a few minutes to get excited about what I want to watch, but I have pretty much never been dissapointed.
 
-For example, some good movies that I have watched that really effected me include:
+For example, some good movies that I have watched that really affected me include:
 - [Wanda (1970)](https://en.wikipedia.org/wiki/Wanda_(film))
 - [Salesman (1969)](https://en.wikipedia.org/wiki/Salesman_(1969_film))
 - [8 hours don't make a day (1972-1973)](https://en.wikipedia.org/wiki/Eight_Hours_Don%27t_Make_a_Day)
@@ -160,10 +183,48 @@ So you can immediately get to a music source and listen next to the commentary s
 
 I have not found a great source for this. But please stay posted as I am actively trying out alternatives:
 
-	<TODO Insert email signup form here>
+<br>
+
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mbjlopov" method="post">
+
+<fieldset id="fs-frm-inputs">
+
+<label for="email-address">Email Address</label>
+
+<input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required="">
+
+<input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+
+</fieldset>
+
+<input type="submit" value="Submit">
+
+</form>
+
+<br>
 
 ### Performance art: Status: TBD
 
 While some performance art (e.g. Opera with the Met Opera) has good online streaming options, I have not found anything that was moving enough to merit a standalone subscription. Please stay posted as I am actively trying out alternatives:
 
-	<TODO Insert email signup form here>
+
+<br>
+
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mbjlopov" method="post">
+
+<fieldset id="fs-frm-inputs">
+
+<label for="email-address">Email Address</label>
+
+<input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required="">
+
+<input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+
+</fieldset>
+
+<input type="submit" value="Submit">
+
+</form>
+
+<br>
+
