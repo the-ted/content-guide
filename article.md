@@ -152,7 +152,7 @@ This source is good because it:
 1. Has a massive collection
 2. Is instantly available
 
-So you can immediately get to a music source and listen next to the commentary supporting it. I've also heard Brian Wilson / Beach Boys, Don Cherry, Circuit des Yeux, and other artists I would have no occasion to try out without this source.
+So you can immediately get to a music source. Discovery is really not great - but that's fine because the print sources listed above should periodically point you to new sources. For me, these included Brian Wilson / Beach Boys, Don Cherry, Circuit des Yeux, and other artists I would not have heard about or been able to easily find.
 
 ### Visual art: Status: TBD
 
@@ -186,8 +186,6 @@ I am continually updating this guide as I learn more. If you're interested in ke
 
 <br>
 
-
-
 #### From our readers
 
-Send a note with your thoughts to TODO at ABC.com and I'll include feedback here.
+Send a note with your thoughts to my content consumer at gmail dot com and I'll include feedback here.
