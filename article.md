@@ -50,42 +50,17 @@ Prerequisites:
 - Kindle app from Amazon: This is my preferred e-book reader as subscribing to the sources below and any new books is really painless. I would love to support smaller publishers and I don't like Amazon's monopoly but pretty much all ebooks are available at Amazon and loading them onto the Kindle Just Works. 
 
 1. In your iPhone settings, enable "Guided Access", and set a passcode (I use the same passcode as my unlock screen to make sure I remember it)
-
 ![Guided access settings](img/auto-1.png)
-
 2. Now, triple clicking the power button will start "Guided Access" and limit you to using a single app (until you unlock it with another triple-click and the passcode).
-
 3. Open up the "Shortcuts" app and create a new automation. This should look like the automation below:
-
 ![Guided access settings](img/auto-2.png)
-
 4. When this automation is enabled, every time you open up Safari, your iPhone will open up your Kindle app instead and lock you into guided access mode.
 
 ### Getting articles in easily digestible format with Calibre
 
 I'll be updating this guide with a recommended format for reading journals in article format in Calibre (haven't gotten around to writing this yet).
 	
-If you'd like to be updated when I write this down, please leave your email address here:
-
-<br>
-
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mbjlopov" method="post">
-
-<fieldset id="fs-frm-inputs">
-
-<label for="email-address">Email Address</label>
-
-<input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required="">
-
-<input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-
-</fieldset>
-
-<input type="submit" value="Submit">
-
-</form>
-
-<br>
+If you'd like to be updated when I write this down, please [stay posted](#nextSteps).
 
 ## The sources
 
@@ -162,7 +137,7 @@ For example, some good movies that I have watched that really affected me includ
 
 ### Streaming music
 
-#### Apple Music
+#### [Apple Music](https://www.apple.com/apple-music/)
 
 **Cost**: $10 / month
 
@@ -181,32 +156,15 @@ So you can immediately get to a music source and listen next to the commentary s
 
 ### Visual art: Status: TBD
 
-I have not found a great source for this. But please stay posted as I am actively trying out alternatives:
-
-<br>
-
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mbjlopov" method="post">
-
-<fieldset id="fs-frm-inputs">
-
-<label for="email-address">Email Address</label>
-
-<input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required="">
-
-<input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-
-</fieldset>
-
-<input type="submit" value="Submit">
-
-</form>
-
-<br>
+I have not found a great source for this. But please [stay posted](#nextSteps) as I am actively trying out alternatives:
 
 ### Performance art: Status: TBD
 
-While some performance art (e.g. Opera with the Met Opera) has good online streaming options, I have not found anything that was moving enough to merit a standalone subscription. Please stay posted as I am actively trying out alternatives:
+While some performance art (e.g. Opera with the Met Opera) has good online streaming options, I have not found anything that was moving enough to merit a standalone subscription. Please [stay posted](#nextSteps) as I am actively trying out alternatives:
 
+### <a name="nextSteps"> Next steps
+
+I am continually updating this guide as I learn more. If you're interested in keeping up to date with best-in-class content consumption, please leave your email here
 
 <br>
 
@@ -228,3 +186,8 @@ While some performance art (e.g. Opera with the Met Opera) has good online strea
 
 <br>
 
+
+
+#### From our readers
+
+Send a note with your thoughts to TODO at ABC.com and I'll include feedback here.
