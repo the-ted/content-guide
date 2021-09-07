@@ -49,13 +49,13 @@ I'll be updating this guide with a recommended format for reading journals in ar
 	
 If you'd like to be updated when I write this down, please leave your email address here:
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mbjlopov" method="post">
+<br><form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mbjlopov" method="post">
 
 <fieldset id="fs-frm-inputs">
 
 <label for="email-address">Email Address</label>
 
-<input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+<input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required="">
 
 <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
 
@@ -63,7 +63,7 @@ If you'd like to be updated when I write this down, please leave your email addr
 
 <input type="submit" value="Submit">
 
-</form>
+</form><br>
 
 ## The sources
 
@@ -76,17 +76,46 @@ These are periodic sourced of articles. For written journals, you want
 3. Content in a wide range of interesting subject areas and topics
 
 #### [New York Review of Books](https://www.nybooks.com/)
+
+**Cost**: 1 year, $99
+
+**Slant**: Liberal
+
+**Good for**: Art, fiction books, history, subjects you didn't know you were interested in
+
 This was the journal I started with. My grandfather was an ardent NYRB fan and I picked this source up from him. Some of these articles will show up in reputable online blogs (e.g. yCombinator, metafilter) every now and then.
 
 For me, really good content I've found here is the work by [Rachel Cusk](https://en.wikipedia.org/wiki/Rachel_Cusk), among others.
 
 #### [London Review of Books](https://www.lrb.co.uk/)
+
+**Cost**: Kindle edition is $5 / issue, delivered biweekly
+
+**Slant**: Liberal
+
+**Good for**: Nonfiction, History, Europe
+
+
 This is another journal that is (obviously) focused more on the London / UK side of things. I've been reading the LRB for about ~6 months at this point and I find that they have really good narrative perspectives and reviews.
 
 #### [New Criterion](https://newcriterion.com/)
+
+**Cost**: Annoyingly, no Kindle access; $5 / month
+
+**Slant**: Conservative
+
+**Good for**: Opposing viewpoints, music and art
+
 This is a thoughtful conservative journal that is helpful to balance out point-of-views. The NYRB and the LRB are both left-of-center (although not extremely progressive). The New Criterion is helpful as a counterbalance (although you may need to be willing to deal with some out-there perspectives in the age of Trump).
 
-#### A current events newspaper
+#### [Wall Street Journal](https://www.wsj.com/)
+
+**Cost**: ~$48 / year (depending on sales / specials)
+
+**Slant**: Conservative
+
+**Good for**: Key headlines / happenings
+
 As the above journals are only published every month, you need a source for current events that is published more regularly. Without this source, you'll feel out-of-date and go back to checking your standard set of blogs every 30 minutes.
 
 I have found that The Wall Street Journal is my preferred source for current events. This is because the NYTimes has pivoted to be very progressive, and I find that the NYRB and LRB do a more effective job at delivering those perspectives. The WSJ covers "just the facts" in a better way and also evens out your political views. 
@@ -94,6 +123,13 @@ I have found that The Wall Street Journal is my preferred source for current eve
 ### Streaming video
 
 #### The Criterion Collection
+
+**Cost**: $100 / year
+
+**Slant**: None
+
+**Good for**: Great streaming video content
+
 This is a great collection of just really, really good movies. After scrolling through these films it takes me a few minutes to get excited about what I want to watch, but I have pretty much never been dissapointed.
 
 For example, some good movies that I have watched that really effected me include:
@@ -105,6 +141,12 @@ For example, some good movies that I have watched that really effected me includ
 
 #### Apple Music
 
+**Cost**: $10 / month
+
+**Slant**: None
+
+**Good for**: Instant access to any music
+
 The pattern here is typically music is written about in journals above - for example, downloading the [Glenn Gould's Goldberg Variations](https://music.apple.com/us/album/bach-goldberg-variations-bwv-988-the-1955-1981-recordings/594521223) while reading [this article](https://www.lrb.co.uk/the-paper/v14/n06/nicholas-spice/how-to-play-the-piano).
 
 This source is good because it:
@@ -114,12 +156,14 @@ This source is good because it:
 
 So you can immediately get to a music source and listen next to the commentary supporting it. I've also heard Brian Wilson / Beach Boys, Don Cherry, Circuit des Yeux, and other artists I would have no occasion to try out without this source.
 
-### Visual art
-This is TBD -- I have not found a great source for this. But please stay posted as I am actively trying out alternatives
+### Visual art: Status: TBD
+
+I have not found a great source for this. But please stay posted as I am actively trying out alternatives:
 
 	<TODO Insert email signup form here>
 
-### Performance art
-While some performance art (e.g. Opera with the Met Opera) has good online streaming options, I have not found anything that was moving enough to merit a standalone subscription. Please stay posted as I am actively trying out alternatives
+### Performance art: Status: TBD
+
+While some performance art (e.g. Opera with the Met Opera) has good online streaming options, I have not found anything that was moving enough to merit a standalone subscription. Please stay posted as I am actively trying out alternatives:
 
 	<TODO Insert email signup form here>
