@@ -74,6 +74,8 @@ These are basically high-quality magazines. For these, you want
 
 I find the truly best thinking is right in the boundary between academia and the public. Someplace like the New Yorker tends to dumb down their nonfiction (and frequently gets it wrong). But I'm not going to be reading the Journal of American History anytime soon!
 
+Anyways, here's the list:
+
 #### [New York Review of Books](https://www.nybooks.com/)
 
 **Cost**: 1 year, $99
@@ -117,6 +119,8 @@ This is a thoughtful conservative journal that is helpful to balance out point-o
 As the above journals are only published every month, you need a source for current events that is published more regularly. Without this source, you'll feel out-of-date and go back to checking your standard set of blogs every 30 minutes.
 
 I have found that The Wall Street Journal is my preferred source for current events. This is because the NYTimes has pivoted to be very progressive, and I find that the NYRB and LRB do a more effective job at delivering those perspectives. The WSJ covers "just the facts" in a better way and also evens out your political views. 
+
+With those four sources you'll generally have enough to read, particularly if you take their recommendations and find 1-2 books to read concurrently.
 
 ### Streaming video
 
@@ -186,6 +190,6 @@ I am continually updating this guide as I learn more. If you're interested in ke
 
 <br>
 
-#### From our readers
+#### Your thoughts here...
 
 Send a note with your thoughts to my content consumer at gmail dot com and I'll include feedback here.
