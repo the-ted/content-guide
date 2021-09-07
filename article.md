@@ -49,7 +49,7 @@ I'll be updating this guide with a recommended format for reading journals in ar
 	
 If you'd like to be updated when I write this down, please leave your email address here:
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mbjlopov" method="post">
 
 <fieldset id="fs-frm-inputs">
 
