@@ -32,22 +32,38 @@ Prerequisites:
 - Kindle app from Amazon: This is my preferred e-book reader as subscribing to the sources below and any new books is really painless. I would love to support smaller publishers and I don't like Amazon's monopoly but pretty much all ebooks are available at Amazon and loading them onto the Kindle Just Works. 
 
 1. In your iPhone settings, enable "Guided Access", and set a passcode (I use the same passcode as my unlock screen to make sure I remember it)
+
 ![Guided access settings](img/auto-1.png)
 
 2. Now, triple clicking the power button will start "Guided Access" and limit you to using a single app (until you unlock it with another triple-click and the passcode).
 
 3. Open up the "Shortcuts" app and create a new automation. This should look like the automation below:
+
 ![Guided access settings](img/auto-2.png)
 
 4. When this automation is enabled, every time you open up Safari, your iPhone will open up your kindle app instead and lock you into guided access mode.
 
 ### Getting articles in easily digestible format with Calibre
 
-I'll be upding this guide with a recommended format for reading journals in article format in Calibre (haven't gotten around to writing this yet).
+I'll be updating this guide with a recommended format for reading journals in article format in Calibre (haven't gotten around to writing this yet).
 	
 If you'd like to be updated when I write this down, please leave your email address here:
 
-	<TODO Insert email signup form here>
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+
+<fieldset id="fs-frm-inputs">
+
+<label for="email-address">Email Address</label>
+
+<input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+
+<input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+
+</fieldset>
+
+<input type="submit" value="Submit">
+
+</form>
 
 ## The sources
 
