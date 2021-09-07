@@ -2,15 +2,15 @@
 ### This article has two things:
 
 1. A focused list of "premium culture" sources that I believe are high-quality and worth your time
-2. A recommended way of redirecting your attention towards better content online
+2. How to redirect your attention towards better content online
 
-### This is in response to: 
+### I wrote this because:
 
-1. Access to content has never been better.
-2. World-class books, articles, film, music is all literally a click away.
-3. However, as access to content has improved, most content is literal garbage.
-4. "Free" online content is usually click-bait, or worse.
-5. Other content types (e.g. social) are designed to extract attention, time, and money from you as a content consumer (as this is how these platforms make money).
+1. Access to content has never been better. World-class books, articles, film, music is all literally a click away.
+2. However, the vast majority of content is garbage - in an absolute sense.
+3. In particular, "free" online content is usually click-bait, or worse.
+4. Other content types (e.g. social) are designed to extract attention, time, and money from you as a content consumer (as this is how these platforms make money).
+5. I have found a small set of premium content sources that solve this problem and get me 80-90% of the content I consume.
 
 ### This is a simple setup that I believe is a better way of consuming the good content.
 
@@ -18,10 +18,28 @@ I'll be updating this guide every 6 months or so; if you'd like to be updated wh
 
 	<TODO Insert email signup form here>
 
-## Tools and Setup
-### Redirecting your attention span FROM the internet TO something worth your time.
+## Tools and setup
+### Redirecting your attention FROM the internet TO something worth your time.
 
-	<TODO Insert description of attention redirection>
+To start with, you need to break the habit of scrolling through your internet sources.
+
+In order to do that, I wrote an Apple shortcut that automatically redirects me to my kindle app and locks me into guided access mode every time I open Safari.
+
+This is a great pattern because it provides enough friction to prevent you from mindlessly opening apps. But, if you really do need to use an app (e.g. for work) then you can take the time to unlock it.
+
+Prerequisites:
+- "Shortcuts" app from Apple
+- Kindle app from Amazon: This is my preferred e-book reader as subscribing to the sources below and any new books is really painless. I would love to support smaller publishers and I don't like Amazon's monopoly but pretty much all ebooks are available at Amazon and loading them onto the Kindle Just Works. 
+
+1. In your iPhone settings, enable "Guided Access", and set a passcode (I use the same passcode as my unlock screen to make sure I remember it)
+![Guided access settings](img/auto-1.png)
+
+2. Now, triple clicking the power button will start "Guided Access" and limit you to using a single app (until you unlock it with another triple-click and the passcode).
+
+3. Open up the "Shortcuts" app and create a new automation. This should look like the automation below:
+![Guided access settings](img/auto-2.png)
+
+4. When this automation is enabled, every time you open up Safari, your iPhone will open up your kindle app instead and lock you into guided access mode.
 
 ### Getting articles in easily digestible format with Calibre
 
